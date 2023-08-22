@@ -3,9 +3,6 @@
 # Harry Campbell - Front-End Web Developer and Self-Taught Programmer
 
 🌐 **Website:** [CampbellHarry.github.io](https://CampbellHarry.github.io)  
-💼 **LinkedIn:** [linkedin.com/in/itharrycampbell](https://www.linkedin.com/in/itharrycampbell/)  
-🔗 **GitHub:** [github.com/CampbellHarry](https://github.com/CampbellHarry)  
-
 ## Summary:
 
 Passionate self-taught programmer specializing in web development, design, and security. Experienced in creating robust and user-friendly websites, with a focus on enhancing user experiences. Skilled in HTML, CSS, Python, and currently expanding knowledge into React. Proven ability to design captivating visuals and creatively solve complex problems. Excellent communicator and proactive learner, dedicated to staying up-to-date with the latest technologies.
