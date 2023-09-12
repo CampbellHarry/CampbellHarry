@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
 
-# Harry Campbell - Front-End Web Developer and Self-Taught Programmer
+# Harry Campbell - Front-End Web Developer and Self-Taught Programmer.
 
 🌐 **Website:** [CampbellHarry.github.io](https://CampbellHarry.github.io)  
 ## Summary:
@@ -21,7 +21,7 @@ Passionate self-taught programmer specializing in web development, design, and s
 - Actively developing Aegis Authentication to enhance user account security with reminders and secure password creation methods.
 
 #### [Portfolio Website](https://github.com/CampbellHarry/portfolio)
-- Created a personal portfolio website attracting 361 unique visitors and 1006 total requests within 30 days, as per Cloudflare statistics.
+- Created a personal portfolio website attracting 370 unique visitors and over 1000 total requests within 30 days, as per Cloudflare statistics.
 - Produced captivating advertisements, logos, and posters for various projects.
 
 #### Industry Networking
