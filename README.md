@@ -12,7 +12,7 @@ Front-End, Project Management, Customer Service, Cyber Security, Javascript, Pyt
   - Avg. Score: 90.61%
   
 ### Projects
-#### Hexxa - Ecommerce Marketplace Projects: Hexxa [█████████████████████████░░░░░░░░░░░░] 80%.
+#### Hexxa - Ecommerce Marketplace Projects: Hexxa [█████████████████████████████░░░░░░] 80%.
 
 - Full-stack development with user authentication, product listings, and checkout. Hexxa Is a online market place I am developing with cutting edge fetures of user comfort, security and support.
 - **Tech Stack:** Node.js, Express, JSON.
