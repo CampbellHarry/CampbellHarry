@@ -1,7 +1,43 @@
 ## Hey, I am Harry
-Full stack developer, Cyber Security Analyst, IT Student and Technial Project Lead at [hdev.uk](https://www.hdev.uk)
+👨‍💻 Full Stack Developer | 🛡️ Cyber Security Analyst | 🎓 IT Student | 🚀 Technical Project Lead at [hdev.uk](https://hdev.uk)
 
-Projects: Hexxa [█████████████████████████░░░░░░░░░░░░] 80%. Hexxa Is a online market place I am developing with cutting edge fetures of user comfort, security and support.
+### Summary
+IT student with a passion for programming, cyber security, and web development. Quick learner seeking entry-level IT role. Experienced in front-end development, project management, and cyber security.
+
+### Skills
+Front-End, Project Management, Customer Service, Cyber Security, Javascript, Python
+
+### Certifications
+- Google Cyber Security Professional Certificate (Sept 2023)
+  - Avg. Score: 90.61%
+
+### Experience
+
+#### Front End Developer, Hdev Group (May 2023 - Present)
+
+- Expertise: JavaScript, Python, React
+- Implemented fraud detection, developed ecommerce platform, optimized page load times.
+
+#### Personal Experience (Feb 2022 - Present)
+
+- Used Wireshark for network security, mitigated DDOS attacks, created security frameworks.
+
+### Projects
+
+#### Hexxa - Ecommerce Marketplace Projects: Hexxa [█████████████████████████░░░░░░░░░░░░] 80%.
+
+- Full-stack development with user authentication, product listings, and checkout. Hexxa Is a online market place I am developing with cutting edge fetures of user comfort, security and support.
+- **Tech Stack:** Node.js, Express, JSON, React
+
+#### IT Ticket Tooling Website
+
+- Designed and developed a ticketing platform for improved response times.
+- **Tech Stack:** Python, Flask, JSON.
+
+#### Banking Website - Fraud Reduction
+
+- Built a secure banking website, reducing fraud incidents by 70%.
+- **Tech Stack:** Python, Flask, JSON.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
