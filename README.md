@@ -1,31 +1,22 @@
 ## Hey, I am Harry
 👨‍💻 Full Stack Developer | 🛡️ Cyber Security Analyst | 🎓 IT Student | 🚀 Technical Project Lead at [hdev.uk](https://hdev.uk)
 
-### Summary
-IT student with a passion for programming, cyber security, and web development. Quick learner seeking entry-level IT role. Experienced in front-end development, project management, and cyber security.
+**PROJECTS**
 
-### Skills
-Front-End, Project Management, Customer Service, Cyber Security, Javascript, Python
+**SecureSync**
+Developed a Cryptographic website to secure files under AES 256 bit encryption.
+Implemented Auth0 for easy user management and authentication 2 factor authentication as standard for logging on.
+Integrated cloud storage from my web page to AWS S3 Storage.
+Enhanced security using express-openid for easy user identification and security.
+This project has industry standard coding and secure coding practices.
 
-### Certifications
-- Google Cyber Security Professional Certificate (Sept 2023)
-  - Avg. Score: 90.61%
-  
-### Projects
-#### Hexxa - Ecommerce Marketplace Projects: Hexxa [█████████████████████████████░░░░░░] 80%.
+**Hexxa**
+Implemented user authentication, product listings, and checkout functionality.
+Enhanced security using express-openid for easy user identification and security.
+Collaborated with other developers to ensure no biases on the site's design.
+This project has industry standard coding and secure coding practices.
+Tech Stack: Node.js, Express, JSON, React
 
-- Full-stack development with user authentication, product listings, and checkout. Hexxa Is a online market place I am developing with cutting edge fetures of user comfort, security and support.
-- **Tech Stack:** Node.js, Express, JSON.
-  
-#### IT Ticket Tooling Website
-
-- Designed and developed a ticketing platform for improved response times.
-- **Tech Stack:** Python, Flask, JSON.
-
-#### Banking Website - Fraud Reduction
-
-- Built a secure banking website, reducing fraud incidents by 70%.
-- **Tech Stack:** Python, Flask, JSON.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
