@@ -5,9 +5,11 @@
 
 **HProjects**
 Project Tracking
+https://github.com/Hdev-Group/HProjects
 
 **HCyber**
 Cyber Security and IT training
+
 
 **SecureSync**
 Developed a Cryptographic website to secure files under AES 256 bit encryption.
