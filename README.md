@@ -3,8 +3,11 @@
 
 **PROJECTS**
 
+**HProjects**
+Project Tracking
+
 **HCyber**
-[![wakatime](https://wakatime.com/badge/user/018ed819-f069-4782-8875-fd9914195ede/project/018ed81b-5a2a-4dae-afea-608592b1d381.svg)](https://wakatime.com/badge/user/018ed819-f069-4782-8875-fd9914195ede/project/018ed81b-5a2a-4dae-afea-608592b1d381)
+Cyber Security and IT training
 
 **SecureSync**
 Developed a Cryptographic website to secure files under AES 256 bit encryption.
