@@ -32,6 +32,29 @@ I enjoy developing and designing modern web applications that feel unique in the
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
 </div>
 
+# ⌨ Projects
+
+> My most recent projects
+
+<div>
+  <table>
+    <tr>
+  <td valign="top" width="50%">
+    
+  #### HProjects
+
+  This is a trello like application that i am making for project managment and incident responding tool
+  </td>
+    <td valign="top" width="50%">
+    
+  #### HCyber 
+
+  HCyber is a training website for IT and Cyber security it has CV scanners, trainings, discord bots and much more
+  </td>
+  </tr>
+  </table>
+  </div>
+
 # The Development Environment
 
 > Growing up with windows since windows vista it is my operating system of choice for my development.
