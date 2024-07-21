@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 I am a **Full Stack Web Developer** and **Security Engineer** from good old England. I grew up in the late 2000s and became fascinated with the infrastructure of the internet and ever since, have wanted to secure and develop.
-I love designing high performance web appications that are **fast**, **responsive**, **accessible**, and **secure** for everyone.
+I love designing high performance web applications that are **fast**, **responsive**, **accessible**, and **secure** for everyone.
 I enjoy developing and designing modern web applications that feel unique in their own way while remaining professional and appealing.
 <ul>
   <li>
@@ -28,8 +28,8 @@ I enjoy developing and designing modern web applications that feel unique in the
 
 # 📈 My Github Stats 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CampbellHarry&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=CampbellHarry&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CampbellHarry's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" alt="CampbellHarry's Streak" height="165">
 </div>
 
 # ⌨ Projects
@@ -43,7 +43,7 @@ I enjoy developing and designing modern web applications that feel unique in the
     
   #### <a href="https://github.com/Hdev-Group/HProjects">HProjects</a>
 
-  This is a trello like application that i am making for project managment and incident responding tool
+  This is a trello like application that i am making for project management and incident responding tool
   </td>
     <td valign="top" width="50%">
     
@@ -75,3 +75,11 @@ I enjoy developing and designing modern web applications that feel unique in the
     </tr>
   </table>
 </div>
+
+# 🎓 Qualifications
+## GCSE (Level 2):
+- Information Technology: <b>Distinction</b>
+## A-Level (Level 3):
+- Information Technology: <b>Distinction* Distinction* Distinction</b>
+## Undergrad (Level 4-6):
+- Computing (Networks, Cyber Security and Forensics)
