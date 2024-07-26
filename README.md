@@ -81,5 +81,5 @@ I enjoy developing and designing modern web applications that feel unique in the
 - Information Technology: <b>Distinction</b>
 ## A-Level (Level 3):
 - Information Technology: <b>Distinction* Distinction* Distinction</b>
-## Undergrad (Level 4-6):
+## Undergraduate (Level 4-6):
 - Computing (Networks, Cyber Security and Forensics)
