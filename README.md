@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a **Full Stack Web Developer** and **Security Engineer** from good old England. I grew up in the late 2000s and became fascinated with the infrastructure of the internet and ever since, have wanted to secure and develop.
+I am a **Full Stack Web Developer** and **Security Engineer** from good old England. I grew up in the mid 2000s and became fascinated with the infrastructure of the internet and ever since, have wanted to secure and develop.
 I love designing high performance web applications that are **fast**, **responsive**, **accessible**, and **secure** for everyone.
 I enjoy developing and designing modern web applications that feel unique in their own way while remaining professional and appealing.
 <ul>
