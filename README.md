@@ -73,6 +73,14 @@ I enjoy developing and designing modern web applications that feel unique in the
    🤖 **RTX 3060**
   
   </td>
+  <td valign="top">
+  
+  #### 💻 Laptop Specs
+
+  ⚙ **Windows 11** <br>
+  🐏 **16GB DDR4** Ram <Br>
+   🏙 **Intel I5** <br>
+  </td>
     </tr>
   </table>
 </div>
