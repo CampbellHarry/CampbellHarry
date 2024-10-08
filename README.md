@@ -8,6 +8,9 @@ I enjoy developing and designing modern web applications that feel unique in the
     💼 Want to hire me? Check out my website <a href="https://hdev.uk">here</a>
   </li>
   <li>
+    📚 Check out my blog <a href="https://hdev.uk/blog">here</a>
+  </li>
+  <li>
     💬 Interested? Just ask!
   </li>
 </ul>
