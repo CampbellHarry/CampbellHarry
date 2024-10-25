@@ -33,7 +33,7 @@ I enjoy developing and designing modern web applications that feel unique in the
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CampbellHarry&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CampbellHarry's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" alt="CampbellHarry's Streak" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?CampbellHarry=ffflabs" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CampbellHarry=ffflabs" height="165">
 </div>
 
 # ⌨ Projects
