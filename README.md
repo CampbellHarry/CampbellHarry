@@ -33,7 +33,6 @@ I enjoy developing and designing modern web applications that feel unique in the
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CampbellHarry&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CampbellHarry's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" alt="CampbellHarry's Streak" height="165">
-    <a href="https://gitroll.io/profile/uMhMQ9YaRX6hXXhs0g45Bh3AfZNA2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uMhMQ9YaRX6hXXhs0g45Bh3AfZNA2?theme=dark" alt="GitRoll Profile Badge"/></a>
 </div>
 
 # ⌨ Projects
