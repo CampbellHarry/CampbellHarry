@@ -43,16 +43,15 @@ I enjoy developing and designing modern web applications that feel unique in the
   <table>
     <tr>
   <td valign="top" width="50%">
+      #### <a href="https://github.com/Hdev-Group/textuality">Textuality</a>
+    Real time collaborative writing platform CMS
+  </td>
+
+  <td valign="top" width="50%">
     
   #### <a href="https://github.com/Hdev-Group/HProjects">HProjects</a>
 
   This is a trello like application that i am making for project management and incident responding tool
-  </td>
-    <td valign="top" width="50%">
-    
-  #### <a href="https://github.com/Hdev-Group/HCyber">HCyber</a> 
-
-  HCyber is a training website for IT and Cyber security it has CV scanners, trainings, discord bots and much more
   </td>
   </tr>
   </table>
