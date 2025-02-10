@@ -43,8 +43,10 @@ I enjoy developing and designing modern web applications that feel unique in the
   <table>
     <tr>
   <td valign="top" width="50%">
-      #### <a href="https://github.com/Hdev-Group/textuality">Textuality</a>
-    Real time collaborative writing platform CMS
+    
+  #### <a href="https://github.com/Hdev-Group/Textuality">Textuality</a>
+
+  Real time CMS used for anything blog like.
   </td>
 
   <td valign="top" width="50%">
