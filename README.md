@@ -2,7 +2,7 @@
   Hello, I am Harry.
 </p>
 <h4 align="start">
-  <b>Aerospace Software Engineer | Cyber Security Engineer | Full Stack Software Engineer. </b>
+  <b>Degree Apprentice Aerospace Software Engineer | Cyber Security Engineer | Full Stack Software Engineer. </b>
 </h4>
 
 <p align="start">
@@ -66,10 +66,7 @@ MySQL, Convex, PostgreSQL, Firebase, MongoDB.
 
 ### 🎓 Qualifications
 
-**GCSE (Level 2):**
-- 📘 Information Technology: **Distinction**
-
-**A-Level (Level 3):**
+**A-Level / BTEC Level 3:**
 - 📗 Information Technology: **D\* D\* D\***
 
 **Undergraduate (Level 4–6):**
