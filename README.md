@@ -70,6 +70,6 @@ MySQL, Convex, PostgreSQL, Firebase, MongoDB.
 - 📗 Information Technology: **D\* D\* D\***
 
 **Undergraduate (Level 4–6):**
-- 🎓 (BEng (Hons)) Software Engineering in Aerospace 
+- 🎓 (BEng (Hons)) Software Engineering in Aerospace @ Lancaster University
 
 
