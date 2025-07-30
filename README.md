@@ -32,7 +32,8 @@ MySQL, Convex, PostgreSQL, Firebase, MongoDB.
 
 | Project | Description |
 |--------|-------------|
-| [Textuality](https://github.com/Hdev-Group/Textuality) | Real-time CMS platform for anything blog-like. |
+| [Textuality](https://github.com/Hdev-Group/Textuality
+) | Real-time CMS platform for anything blog-like. |
 | [HProjects](https://github.com/Hdev-Group/HProjects) | Trello-style project management + incident response tool for modern SaaS teams. |
 | [TrackIt (WIP)](https://github.com/Hdev-Group) | A powerful real-time SaaS suite for monitoring, ticketing, incident response & team management. |
 
@@ -42,7 +43,7 @@ MySQL, Convex, PostgreSQL, Firebase, MongoDB.
 
 | Desktop Setup | Laptop Setup |
 |---------------|--------------|
-| 🖥 Windows 10 | 💻 Windows 11 |
+| 🖥 Linux Mint | 💻 Windows 11 |
 | 🧠 Ryzen 7 5800X (8-Core) | 🧠 Intel i5 |
 | 🎮 RTX 3060 | 🔋 Lightweight Dev |
 | 🐏 32GB DDR4 RAM | 🐏 16GB DDR4 RAM |
