@@ -2,7 +2,7 @@
   Hello, I am Harry.
 </p>
 <h4 align="start">
-  <b>Degree Apprentice Aerospace Software Engineer | Cyber Security Engineer | Full Stack Software Engineer. </b>
+  <b>Degree Apprentice Software Engineer | Cyber Security Engineer | Full Stack Software Engineer. </b>
 </h4>
 
 <p align="start">
