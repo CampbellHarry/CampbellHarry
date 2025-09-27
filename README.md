@@ -20,7 +20,7 @@
 ---
 
 ### 🧰 Tech Stack
-Typscript, JavaScript, C++, Python.
+Typscript, JavaScript, C++, Python, Ada.
 #### Frameworks
 Node.js, Next.js, React, Vue.
 #### Databases
@@ -47,21 +47,6 @@ MySQL, Convex, PostgreSQL, Firebase, MongoDB.
 | 🧠 Ryzen 7 5800X (8-Core) | 🧠 Intel i5 |
 | 🎮 RTX 3060 | 🔋 Lightweight Dev |
 | 🐏 32GB DDR4 RAM | 🐏 16GB DDR4 RAM |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CampbellHarry&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CampbellHarry&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <a href="https://gitroll.io/profile/uMhMQ9YaRX6hXXhs0g45Bh3AfZNA2">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uMhMQ9YaRX6hXXhs0g45Bh3AfZNA2?theme=dark" alt="GitRoll Badge"/>
-  </a>
-</p>
 
 ---
 
